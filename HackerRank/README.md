@@ -1,23 +1,20 @@
-# HackerRank Certificate
+# My Professional Certificates
 
-## Problem Solving (Basic)
+## Certificates
 
-### Organization
-HackerRank
+### A.C.T Academy
+- Mastering English Communication Skills for a Globally Connected World
 
-### Certificate
-Problem Solving (Basic)
+### HackerRank
+- Problem Solving (Basic)
 
-### Earned On
-04 July 2025
+More certificates will be added as I continue learning.
 
-### Certificate ID
-4D7E89603378
-
-### Skills Gained
+## Skills
 
 - Problem Solving
-- Algorithms
-- Programming Logic
-- Data Structures
-- Coding Skills
+- Cyber Security
+- Python
+- Java
+- Web Development
+- Communication Skills
